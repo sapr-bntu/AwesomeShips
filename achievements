@@ -1,0 +1,18 @@
+#achievement system
+
+1. 'killed' ships -> points, new user ship
+2. bonuses : 
+	time slower - slows enemy ships
+	double killer - kills two ships with one word
+	invincible - makes user ship unkillable
+	ice cube - freezes one-two enemy ships
+	scissors - makes each word shorter
+	health - adds health
+	clon - *2p-game* doubles user ships which goes to enemy screen
+	booster - doubles speed of user ships
+3. achievements
+	speedstor - 10 symbols in 1-2 secs
+	unstoppable - 10 ships in a row with no hurt	
+
+//each ship's word = 5-9 symbols.
+//each bullet's word = 2-3 symbols
